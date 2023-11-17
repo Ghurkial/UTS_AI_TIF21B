@@ -1,0 +1,209 @@
+Nama : M Iqbal Hasan
+Kelas  : TIF B 2021
+Nim    : 23421001 
+
+
+Jawaban
+1 = m
+0 = Iqbal
+1.	Relasi
+A.	Orang Tua
+-	Hadi orang tua dari Desi
+-	Hadi orang tua dari Wahyu
+-	Hadi orang tua dari Rina
+-	Hadi orang tua dari Ardi
+-	Retno orang tua dari Desi
+-	Retno orang tua dari Wahyu
+-	Retno orang tua dari Rina
+-	Retno orang tua dari Ardi
+-	M orang tua dari Tari (M adalah nama depan dikarenaka nim ke 8 saya 1)
+-	M orang tua dari Nurul (M adalah nama depan dikarenaka nim ke 8 saya 1)
+-	M orang tua dari Yanto (M adalah nama depan dikarenaka nim ke 8 saya 1)
+-	Desi orang tua dari Tari
+-	Desi orang tua dari Nurul 
+-	Desi orang tua dari Yanto
+-	Rina orang tua dari Hamzah
+-	Ardi orang tua dari Eka
+-	Ardi orang tua dari Mira
+-	Ardi orang tua dari Bastian
+-	Ana orang tua dari Eka
+-	Ana orang tua dari Mira
+-	Ana orang tua dari Bastian
+-	Iqbal orang tua dari wanda (Iqbal adalah nama depan dikarenaka nim ke7 saya 0)
+-	Tari orang tua dari wanda
+-	Nurul orang tua dari Aji
+-	Nurul orang tua dari Gunawan
+-	Mira orang tua dari Anggun
+-	Mira orang tua dari Boy
+B.	Saudara Laki2
+-	Wahyu saudara laki-laki dari Desi
+-	Wahyu saudara laki-laki dari Rina
+-	Wahyu saudara laki-laki dari Ardi
+-	Ardi saudara laki-laki dari Desi
+-	Ardi saudara laki-laki dari Rina
+-	Ardi saudara laki-laki dari Wahyu
+-	Yanto saudara laki-laki dari Tari
+-	Yanto saudara laki-laki dari Nurul
+-	Bastian saudara laki-laki dari Eka
+-	Bastian saudara laki-laki dari Mira
+-	Aji saudara laki-laki dari Gunawan
+-	Gunawan saudara laki-laki dari Aji
+-	Boy saudara laki-laki dari Anggun
+
+C.	Saudara Perempuan
+-	Desi saudara perempuan dari Wahyu
+-	Desi saudara perempuan dari Rina
+-	Desi saudara perempuan dari Ardi
+-	Rina saudara perempuan dari Desi
+-	Rina saudara perempuan dari Wahyu
+-	Rina saudara perempuan dari Ardi
+-	Tari saudara perempuan dari Nurul
+-	Tari saudara perempuan dari Yanto
+-	Nurul saudara perempuan dari Tari
+-	Nurul saudara perempuan dari Yanto
+-	Eka saudara perempuan dari Mira
+-	Eka saudara perempuan dari Bastian
+-	Mira saudara perempuan dari Eka
+-	Mira saudara perempuan dari Bastian
+-	Anggun saudara perempuan dari Boy
+
+D.	Paman
+-	M paman dari Hamzah
+-	M paman dari Eka
+-	M paman dari Mira
+-	M paman dari Bastian
+-	Wahyu paman dari Tari
+-	Wahyu paman dari Nurul
+-	Wahyu paman dari Yanto
+-	Wahyu paman dari Hamzah
+-	Wahyu paman dari Eka
+-	Wahyu paman dari Mira
+-	Wahyu paman dari Bastian
+-	Ardi paman dari Tari
+-	Ardi paman dari Nurul
+-	Ardi paman dari Yanto
+-	Ardi paman dari Hamzah
+-	Yanto paman dari Wanda
+-	Yanto paman dari Aji
+-	Yanto paman dari Gunawan
+-	Yanto paman dari Anggun
+-	Yanto paman dari Boy
+-	Hamzah paman dari Wanda
+-	Hamzah paman dari Aji
+-	Hamzah paman dari Gunawan
+-	Hamzah paman dari Anggun
+-	Hamzah paman dari Boy
+-	Bastian paman dari Wanda
+-	Bastian paman dari Aji
+-	Bastian paman dari Gunawan
+-	Bastian paman dari Anggun
+-	Bastian paman dari Boy
+-	Iqbal paman dari Aji
+-	Iqbal paman dari Gunawan
+-	Iqbal paman dari Anggun
+-	Iqbal paman dari Boy
+
+E.	Bibi
+-	Desi bibi dari Hamzah
+-	Desi bibi dari Eka
+-	Desi bibi dari Mira
+-	Desi bibi dari Bastian
+-	Rina bibi dari Tari
+-	Rina bibi dari Nurul
+-	Rina bibi dari Yanto
+-	Rina bibi dari Eka
+-	Rina bibi dari Mira
+-	Rina bibi dari Bastian
+-	Ana bibi dari Tari
+-	Ana bibi dari Nurul
+-	Ana bibi dari Yanto
+-	Tari bibi dari Aji
+-	Tari bibi dari Gunawan
+-	Tari bibi dari Anggun
+-	Tari bibi dari Boy
+-	Nurul bibi dari Wanda
+-	Nurul bibi dari Anggun
+-	Nurul bibi dari Boy
+-	Eka bibi dari Wanda
+-	Eka bibi dari Aji
+-	Eka bibi dari Gunawan
+-	Mira bibi dari Wanda
+-	Mira bibi dari Aji
+-	Mira bibi dari Gunawan
+
+F.	Kakek
+-	Hadi kakek dari Tari
+-	Hadi kakek dari Nurul
+-	Hadi kakek dari Yanto
+-	Hadi kakek dari Hamzah
+-	Hadi kakek dari Eka
+-	Hadi kakek dari Mira
+-	Hadi kakek dari Bastian
+-	M kakek dari Wanda
+-	M kakek dari Aji
+-	M kakek dari Gunawan
+-	Ardi kakek dari Anggun
+-	Ardi kakek dari Boy
+
+G.	Nenek
+-	Retno nenek dari Tari
+-	Retno nenek dari Nurul
+-	Retno nenek dari Yanto
+-	Retno nenek dari Hamzah
+-	Retno nenek dari Eka
+-	Retno nenek dari Mira
+-	Retno nenek dari Bastian
+-	Desi nenek dari Wanda
+-	Desi nenek dari Aji
+-	Desi nenek dari Gunawan
+-	Ana nenek dari Anggun
+-	Ana nenek dari Boy
+
+H.	Sepupu
+-	Tari sepupu dari Hamzah
+-	Tari sepupu dari Eka
+-	Tari sepupu dari Mira
+-	Tari sepupu dari Bastian
+-	Nurul sepupu dari Hamzah
+-	Nurul sepupu dari Eka
+-	Nurul sepupu dari Mira
+-	Nurul sepupu dari Bastian
+-	Yanto sepupu dari Hamzah
+-	Yanto sepupu dari Eka
+-	Yanto sepupu dari Mira
+-	Yanto sepupu dari Bastian
+-	Hamzah sepupu dari Tari
+-	Hamzah sepupu dari Nurul
+-	Hamzah sepupu dari Yanto
+-	Hamzah sepupu dari Eka
+-	Hamzah sepupu dari Mira
+-	Hamzah sepupu dari Bastian
+-	Eka sepupu dari Tari
+-	Eka sepupu dari Nurul
+-	Eka sepupu dari Yanto
+-	Mira sepupu dari Tari
+-	Mira sepupu dari Nurul
+-	Mira sepupu dari Yanto
+-	Bastian sepupu dari Tari
+-	Bastian sepupu dari Nurul
+-	Bastian sepupu dari Yanto
+-	Wanda sepupu dari Aji
+-	Wanda sepupu dari Gunawan
+-	Wanda sepupu dari Anggun
+-	Wanda sepupu dari Boy
+-	Aji sepupu dari Wanda
+-	Aji sepupu dari Gunawan
+-	Aji sepupu dari Anggun
+-	Aji sepupu dari Boy
+-	Gunawan sepupu dari Wanda
+-	Gunawan sepupu dari Aji
+-	Gunawan sepupu dari Anggun
+-	Gunawan sepupu dari Boy
+-	Anggun sepupu dari Wanda
+-	Anggun sepupu dari Aji
+-	Anggun sepupu dari Gunawan
+-	Anggun sepupu dari Boy
+-	Boy sepupu dari Wanda
+-	Boy sepupu dari Aji
+-	Boy sepupu dari Gunawan
+-	Boy sepupu dari Anggun
